@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    font-family: "Space Grotesk", sans-serif;
+ 
+ 
+ }
+ header{
+    color:rgb(255, 255, 255);
+
+    background-image: url(https://thumbs.dreamstime.com/z/delivery-grocery-shopping-healthy-food-background-vegan-vegetarian-paper-bag-vegetables-fruits-nuts-grains-green-copy-178150218.jpg?ct=jpeg);
+
+    text-align: center;
+    justify-content:center;
+    position: sticky;
+    width: 100%;
+    height: 150px;
+    top:0%;
+    position: sticky;
+    /* background-repeat:inherit; */
+    background-size:initial;
+}
+
+header button{
+
+    background-color:brown;
+    color: white;
+    width: 100px;
+    height: 50px;
+    border-radius: 20%;
+    /* margin-top: 200px; */
+    margin-bottom: 200px;
+}
+header button:hover{
+    box-shadow:0px 0px 7px 3px rgb(255, 255, 255);
+}
+.banner{
+   background-image: url(https://thumbs.dreamstime.com/z/delivery-grocery-shopping-healthy-food-background-vegan-vegetarian-paper-bag-vegetables-fruits-nuts-grains-green-copy-178150218.jpg?ct=jpeg);
+   width: 100%;
+   height: 500px;
+   background-size: cover; 
+}
+.row{
+    margin-left: 7%;
+    width: 100%;
+    height: 600px;
+    display: flex;
+    align-items: center;
+    padding-top: 10px;
+    justify-content: space-evenly;
+}
+.col{
+      width: 100%;
+    height: 600px;
+    margin: 10px;
+    align-items:center ;
+    justify-content: center;
+    color: rgb(5, 42, 74);
+    border-radius: 10px;
+    padding: 10px;
+}
+section img:hover{
+    box-shadow: 0px 0px 30px 7px green;
+}
+footer{
+
+    background-image:url(https://thumbs.dreamstime.com/b/delivery-grocery-shopping-healthy-food-background-vegan-vegetarian-paper-bag-vegetables-fruits-nuts-grains-green-copy-178150218.jpg?w=1400);
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    justify-content:center;
+    text-align: center;
+
+}
+section{[
+    background-image:url(https://thumbs.dreamstime.com/b/delivery-grocery-shopping-healthy-food-background-vegan-vegetarian-paper-bag-vegetables-fruits-nuts-grains-green-copy-178150218.jpg?w=1400);
+
+]}
+
+
+
+
